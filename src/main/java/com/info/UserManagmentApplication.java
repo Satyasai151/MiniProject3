@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
-public class ContactppApplication {
+public class UserManagmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ContactppApplication.class, args);
+		SpringApplication.run(UserManagmentApplication.class, args);
 	}
 
 }
